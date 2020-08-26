@@ -1,0 +1,3 @@
+- show collision detetcion islands and shooting boats
+- show xbox controls working
+- show working ui, health/score/rewards
