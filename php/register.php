@@ -2,7 +2,7 @@
 
 	// Change these to connect to the database.
     // $con  = mysqli_connect('localhost', 'root', '', 'boatgame');
-    $con  = mysqli_connect('test.cnrbaforsveg.us-east-1.rds.amazonaws.com', 'admin', 'rootroot', '3dprogramming');
+    $con  = mysqli_connect('******************', '**********', '**********', '3dprogramming');
 
 
     // Check that conection happened
